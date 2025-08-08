@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I’m Yujeong Jeon
 
-<!--
-**eloiseyjj/eloiseyjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m currently in my final year at the University of Toronto, majoring in Economics (Data Analytics focus) and Work & Organizations, with a minor in Statistics.
 
-Here are some ideas to get you started:
+📊 I love making sense of messy data, especially when it tells us something meaningful about people, work, or behavior. I'm interested in data analytics, people analytics, and marketing insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I'm currently:
+- Learning Python and pandas through real-world projects
+- Analyzing my own [YouTube channel](​​www.youtube.com/@eloisej_yj) data (6K+ subs) to discover viewer behavior patterns
+- Exploring how storytelling and visualization make data more impactful
+
+📌 Projects you'll find here:
+- Survey data analysis (R & Python)
+- YouTube data tracking and automation
+- Simple tools for creators and students
+
+🛠️ Tools I’m using:  
+`Python`, `R`, `pandas`, `matplotlib`, `Excel`, `SQL`, `Notion`, `Canva`, `Premiere Pro`
+
+🔗 Connect with me:  
+[LinkedIn](https://www.linkedin.com/in/eloise-jeon)  
+[YouTube](https://www.youtube.com/@eloisej_yj)
